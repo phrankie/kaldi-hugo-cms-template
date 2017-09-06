@@ -1,5 +1,5 @@
 ---
-title: Our Tea
+title: Our Coffee
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
